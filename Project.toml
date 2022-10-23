@@ -1,0 +1,12 @@
+name = "PositiveDMRG"
+uuid = "a1b3821d-1262-4947-9030-4abd665f3da9"
+authors = ["Guo Chu <guochu604b@gmail.com>"]
+version = "0.0.1"
+
+
+[deps]
+KrylovKit = "0b1a1467-8014-51b9-945f-bf0ae24f4b77"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+QuantumSpins = "6fed88ee-e401-4db1-9637-2ff0b433ab63"
+TensorOperations = "6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2"
